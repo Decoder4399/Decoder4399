@@ -247,6 +247,8 @@ Built an Android-based finance tracking application with transaction parsing.
 
 | Certification | Platform | Status |
 |---|---|---|
+| GitHub Copilot | Microsoft | Completed |
+| GitHub Actions | Microsoft | Completed |
 | AWS Certified Cloud Practitioner | AWS | In Progress / Planned |
 | AWS Certified Solutions Architect — Associate | AWS | Planned |
 | HashiCorp Certified: Terraform Associate | HashiCorp | Planned |
